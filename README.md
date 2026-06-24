@@ -1,4 +1,4 @@
-# Task 1 — Caesar Cipher
+Caesar Cipher
 
 **File:** caesar_cipher.html
 
